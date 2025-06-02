@@ -2,7 +2,9 @@
 
 Weather Point is a Java Swing desktop application designed to provide users with current weather information, forecasts, and travel recommendations for various destinations. It features a user-friendly interface with login/registration, a dashboard to search weather, manage favorite locations, and an AI-powered trip planner.
 
-![Weather Point Login Page](images/WeatherPointLogin.gif)
+<div align="center">
+  <img src="images/WeatherPointLogin.gif">
+</div>
 
 ![Weather Point Dashboard](images/WeatherPointDashboard.png) 
 
